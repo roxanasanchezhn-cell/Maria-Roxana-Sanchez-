@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+    <meta charset ="UTF-8"> 
+    <title>ejemplo de idioma</title>
+
+</head>
+<body> <hl style="color:blue;">Mi primera pagina web hola</hl>
+<br>
+<br>
+<table border="1">
+<tr> 
+      <th>Nombre</th>
+      <th>Edad</th>
+      <th>telefono</th>
+</tr>
+       
+</tr>
+
+      <td>Luciana</td>
+      <td>20</td>
+      <td>95595326</td>
+
+
+</tr>
+<tr>
+
+      <td>Mario</td>
+      <td>20</td>
+      <td>52147832</td>
+</tr>
+<tr>
+
+<td>Roxana</td>
+      <td>20</td>
+      <td>12367815</td>
+</tr>
+<tr>
+<ol>
+      <li>investigacion</li>
+      <li>planificacion</li>
+      <li>desarrrollo</li>
+      <lipruebas</li>
+</lo>
+<ul>
+<li>frutas
+<ul>
+
+       <li>manzana</li>
+       <li>cereza</li>
+       <li>banano</li>
+
+</ul>
+</il>
+<li>verduras
+<ul>
+    
+         <li>zanahoria</li>
+         <li>tomate</li>
+         <li>papas</li>
+
+
+</ul>
+</li>
+</ul>
+   
+       
+      
+      
+
+
+
+
+
+
+<table border"1">
+ <tr>
+  <th colspan="2">Datos personales</th>
+ </tr>
+ <tr>
+       <td>Nombre</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+<p style="color:red;"> esta pagina esta en español.</p> 
+<p style ="color:green;">Mi nombre es Roxana.</p>
+
+ </body>
+</html>
